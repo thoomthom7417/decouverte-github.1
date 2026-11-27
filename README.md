@@ -12,4 +12,4 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - la documentation.
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
 Petit mémo [ici](https://www.markdownlang.com/fr/cheatsheet/)
--"dream tonton"
+-"dream tonton" : "faire l'amour à un poisson albinosse
