@@ -1,7 +1,8 @@
 # Ceci est un dépôt pour tester Git/Github
 Je découvre au passage le format `Markdown` qui est souvent utilisé pour rédiger un Readme.
 Ce format n’est **pas une obligation**, mais il offre les **avantages** suivants :
-- *Open-source*
+- *Open-source et gratuit*
+- *Facile à convertir* : peut être exporté en HTLM, PDF, Word et d'autres formats.
 - *Simple à écrire* : quelques caractères suffisent pour mettre en forme le texte.
 - *Lisible en texte brut* : le contenu reste compréhensible sans logiciel spécialisé.
 - *Polyvalent* : pratique pour
