@@ -8,7 +8,7 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - *Polyvalent* : pratique pour
 - les notes,
 - les articles,
-- les rapports et
+- les rapports et ,
 - la documentation.
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
 Petit mémo [ici](https://www.markdownlang.com/fr/cheatsheet/)
